@@ -1,7 +1,4 @@
-/**
- * 
- * Copyright 2020 by @juandisay
- */
+// @juandisay
 
 (function ( document, window ) {
 
